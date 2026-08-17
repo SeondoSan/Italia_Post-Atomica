@@ -618,5 +618,53 @@ Motivo: coerenza con 08.2 (elenco armi con nomi propri eliminato) e con A.3 (le 
 - Laboratori di munizioni in grado di produrre proiettili compatibili con la maggior parte delle armi prebellica
 - "Decima Ferrea": tassa del 10% su tutto il traffico d'armi, sistema di marchatura dei carichi, sanzioni con mutilazione o morte
 ```
+## [05.1-stato-pontificio.md] — Forze Militari, versione a comando unico — rimosso v5.2
+Motivo: A17 — non esiste un ordine militare pontificio unico con un comandante supremo. Sostituito da quattro corpi distinti con committenti separati.
+
+<a id="guardie-vaticane"></a>
+
+## Forze Militari `[NOME DELL'ORDINE - DA DEFINIRE IN FASE CREATIVA]`
+
+> Il nome precedente, "Custodi della Dottrina", è stato ritirato: collideva con quello che
+> la comunità del rifugio assumerà dopo l'uscita. Fino alla scelta definitiva, il braccio armato
+> della Chiesa è indicato come "le forze pontificie".
+
+### Organizzazione e Struttura
+
+- **Natura**: ordine militare-religioso, braccio armato della Chiesa
+- **Comando centrale**: "Maresciallo della Santa Sede", nominato personalmente dal Papa
+- **Dimensioni attuali (2293)**: circa 15.000 effettivi tra forze regolari e milizie territoriali `[CIFRA INDICATIVA - MODIFICABILE PER ESIGENZE DI TRAMA]`
+- **Divisione territoriale**: presidio in ogni provincia, quartier generale a Parthenope
+
+### Unità Specializzate
+
+<a id="lance-sacre"></a>
+
+- **"Lance Sacre"**:
+  - Guardia personale del Papa, unità d'élite con equipaggiamento prebellico avanzato
+  - Impiegate per missioni strategiche e protezione delle figure di alto rango
+  - Riconoscibili dalle armature potenziate con simboli religiosi
+  - **25-30 membri**, selezionati tra i più fedeli e addestrati dell'intero esercito
+
+<a id="milizie-parrocchiali"></a>
+
+- **"Milizie Parrocchiali"**:
+  - Forze territoriali reclutate localmente
+  - Addestramento di base con enfasi sul controllo della popolazione
+  - Equipaggiamento di qualità media
+  - Impiegate soprattutto per mantenere l'ordine nelle comunità
+
+<a id="crociati-penitenti"></a>
+
+- **"Penitenti"**:
+  - Divisione composta da condannati in cerca di redenzione
+  - Utilizzati per missioni ad alto rischio e operazioni in territori contaminati
+  - Addestramento intensivo e indottrinamento religioso
+  - Noti per il fanatismo e la disponibilità al sacrificio
+
+## [05.1-stato-pontificio.md] — Le Crociate, motivazioni — rimosso v5.2
+Motivo: A11 — la riga sull'arsenale come motivo reale non era un fatto ma una credenza dei ranghi intermedi; il vertice combatte per una porta, non per un deposito
+- **Motivazione pubblica**: purificare una terra sacra profanata da creature demoniache
+- **Motivazione reale**: impedire che le testimonianze dirette sul 2077 raggiungano la popolazione
 
 ---
