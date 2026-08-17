@@ -4,14 +4,14 @@
 
 In caso di conflitto tra questo file e qualunque altro documento, prevale questo. Per le date prevale [00_TIMELINE_MASTER](00_TIMELINE_MASTER.md).
 
-*Aggiornato al 16 agosto 2026 — revisione v5.1.*
+*Aggiornato al 18 agosto 2026 — revisione v5.2.*
 
 ---
 
 ## Fondamenta
 
 | Elemento | Valore |
-|----------|--------|
+| --- | --- |
 | Punto Zero | **2293** |
 | Grande Guerra | 23 ottobre 2077 |
 | Innalzamento del mare | **+30 metri**, stabilizzato entro il 2150 |
@@ -25,19 +25,19 @@ In caso di conflitto tra questo file e qualunque altro documento, prevale questo
 ## Il Papa
 
 | Elemento | Valore |
-|----------|--------|
+| --- | --- |
 | Identità | **Clemente XVI**, pontefice prebellico, oggi **Aeternus Primus**. Stessa persona, nessuna successione |
 | Natura | Ghoul, trasformatosi nel rifugio papale di Gaeta tra il 2077 e il 2090 |
 | Chi lo sa | **Solo lui.** Nessuna cerchia di iniziati |
 | Dottrina ufficiale | Eterno per grazia divina. La longevità è prova, non anomalia |
-| Cosa sa che gli altri ignorano | L'esistenza del rifugio sotto Castel Sant'Angelo |
+| Cosa sa che gli altri ignorano | Che il rifugio sotto Castel Sant'Angelo era in origine il suo, riassegnato ai dissidenti; e che il sabotaggio che ne impedì la chiusura interna fu un suo ordine |
 
 ---
 
 ## Cronologia Essenziale
 
 | Periodo | Evento |
-|---------|--------|
+| --- | --- |
 | 2030-2050 | La Nuova Italia. Fine della cecità marittima, Napoli capitale (2042) |
 | 2050-2060 | Decennio Buio. Crisi energetica, **avvio di MegalopolIT**, la Chiesa torna centrale |
 | 2050-2077 | L'Italia Militare. Fornitore di armamenti convenzionali dell'Occidente, doppio gioco |
@@ -52,7 +52,7 @@ In caso di conflitto tra questo file e qualunque altro documento, prevale questo
 ## Popolazione
 
 | Elemento | Valore |
-|----------|--------|
+| --- | --- |
 | Totale al 2293 | **~430.000** — include i Pirati, **esclude i Palustres** |
 | Stato Pontificio | ~320.000 (75%) |
 | Fuori dal controllo diretto | ~110.000 (25%) — comunità sparse, nomadi, predoni |
@@ -66,7 +66,7 @@ Cifre militari e demografiche di dettaglio: `[CIFRA INDICATIVA - MODIFICABILE PE
 
 ## Fazioni
 
-**Stato Pontificio** — teocrazia egemone. ~15.000 combattenti, struttura diocesana, monopolio tecnologico ed energetico. Nome dell'ordine militare: `[DA DEFINIRE]`.
+**Stato Pontificio** — teocrazia egemone. ~15.000 combattenti, struttura diocesana, monopolio tecnologico ed energetico, suddivisi in quattro corpi distinti — vedi **Corpi Armati**.
 
 **Le Famiglie** — continuazione delle organizzazioni criminali prebelliche. Accordo esplicito con la Chiesa, non infiltrazione. **Parte dell'alta gerarchia ecclesiastica proviene da loro.** Doppio gioco reciproco tollerato: ogni tanto un contrabbandiere viene giustiziato per esempio.
 
@@ -82,14 +82,31 @@ Cifre militari e demografiche di dettaglio: `[CIFRA INDICATIVA - MODIFICABILE PE
 
 ---
 
+## Corpi Armati
+
+**Non esiste un nome d'insieme.** Un potere senza rivali non ha bisogno di distinguersi: per la popolazione sono semplicemente *l'esercito*, o *i soldati del Papa*. I quattro livelli d'accesso alle armi (vedi Tecnologia) sono una scala di permessi, non un organigramma: sopra di essa stanno quattro corpi distinti, con committenti diversi.
+
+| Corpo | Chi lo paga | Funzione | Livello armi |
+| --- | --- | --- | --- |
+| **Le milizie** | la diocesi | ordine locale, riscossione, leva contadina | 1   |
+| **La Gendarmeria** | Roma | presidi, strade e convogli | 2-3 |
+| **La Guardia** | il Palazzo | Parthenope, persona del Papa, impianto energetico | 3-4 |
+| **L'Armata** | Roma, straordinaria | crociate, fronte dell'Arcipelago | 2-3 |
+
+Registro dei nomi: funzione, non gloria. Nessun santo, nessuna reliquia, nessun epiteto marziale. Le Lance Sacre (livello 4) appartengono alla Guardia.
+
+Ripartizione dei ~15.000 combattenti tra i quattro corpi: `[DA DEFINIRE IN FASE CREATIVA]`.
+
+---
+
 ## I Custodi — dettaglio
 
 | Elemento | Valore |
-|----------|--------|
-| Origine | Dissidenti assegnati nel 2077 a un rifugio **costruito di proposito senza chiusura interna** |
-| Don Eugenio Menini | Scopre il tradimento, organizza il rifornimento minimo, fa entrare tutti e resta fuori. **Fondatore e martire sono la stessa persona** |
-| Don Mario | Resta fuori con lui a chiudere le porte |
-| Iconografia | **Ritratti dipinti** ai lati delle porte interne, non statue |
+| --- | --- |
+| Origine | Dissidenti assegnati nel 2077 a un rifugio in origine papale, **sabotato deliberatamente perché non si chiudesse dall'interno** |
+| Don Eugenio Menini | Scopre il tradimento, organizza il rifornimento minimo, fa entrare tutti e ottiene la chiusura da una sala di manovra esterna, inaccessibile agli occupanti, restando fuori. **Fondatore e martire sono la stessa persona** |
+| Don Mario | Resta fuori con lui |
+| Iconografia | **Ritratti dipinti** ai lati delle porte interne, non statue. **Devozionale, non cronaca**: la tradizione li colloca alle porte, ma la chiusura fu ottenuta dalla sala di manovra esterna |
 | Governo interno | Elezione della guida a vita, formula vaticana. Titolo proposto: priore |
 | Conoscenza | Trascritta a memoria nei terminali da otto generazioni di studiosi |
 | Asimmetria | La **popolazione** ignora la loro esistenza. Il **vertice ecclesiastico** no |
@@ -99,7 +116,7 @@ Cifre militari e demografiche di dettaglio: `[CIFRA INDICATIVA - MODIFICABILE PE
 ## Palustres
 
 | Elemento | Valore |
-|----------|--------|
+| --- | --- |
 | Cosa sono | Mutanti anfibi **mammiferi**. **NON ghoul**, linea biologica distinta |
 | Origine | Rifugio della laguna veneziana, già sommerso all'esterno nel 2077, danneggiato e allagato progressivamente |
 | Uscita | ~2180. La Chiesa li scopre e inizia le catture |
@@ -107,20 +124,25 @@ Cifre militari e demografiche di dettaglio: `[CIFRA INDICATIVA - MODIFICABILE PE
 | Intelletto | Senzienti, capaci di parlare. La facoltà è soppressa dalla sostanza |
 | Conteggio | Non conteggiati come popolazione: la Chiesa li considera bestiame |
 | Stadi | 1 Integro, 2 Contaminato, 3 Iridescente, 4 Critico. Lo stadio dipende dal lavoro assegnato |
-| Filiera A | Morti agli stadi 1-2 → ghiandola luminescente → sostanza |
+| Filiera A | Morti agli stadi 1-2 → ghiandola luminescente → Aqua Pacis |
 | Filiera B | Stadio 4 vivi → rilasciati nelle zone da contaminare, esplodono |
 
 ---
 
 ## La Sostanza
 
-Nome provvisorio: **brew** / "Pace dell'Acqua". `[DA UNIFICARE — ipotesi: nome ufficiale + nome popolare]`
+| Registro | Nome | Chi lo usa |
+| --- | --- | --- |
+| Liturgico completo | **Aqua Pacis** | rito, documenti ufficiali |
+| Corrente ecclesiastico | **la Pacis** | clero, Artifex, registri d'inventario |
+| Popolare pulito | **la Pace** | chi non ne fa uso |
+| Popolare di strada | **l'Olio** | chi ne fa uso |
 
 - Prodotta dai Palustres morti, venduta agli umani vivi
 - La Chiesa produce, le Famiglie smerciano, la Chiesa incassa
 - Piaga sociale reale ma non di massa
 - Effetti cronici sugli umani: degenerazione cutanea progressiva, lievissima luminescenza notturna
-- Microdosi agli anziani: pratica corrente, funzione utilitaristica
+- Microdosi agli anziani: pratica corrente, funzione utilitaristica. Lessico derivato: **ungere i vecchi**, chi ne fa uso è **unto**
 
 ---
 
@@ -139,7 +161,7 @@ Per la popolazione sono semplicemente terre maledette.
 ## Società
 
 | Elemento | Valore |
-|----------|--------|
+| --- | --- |
 | Struttura | Clero → Famiglie nella gerarchia → nobiltà civile → popolo → marginali |
 | Nobiltà | **Di funzione, non di terra.** Controlla una risorsa (acqua, armi autorizzate, trasporti), non un territorio. Appena tollerata |
 | Forma medievale | **Precipitato**, non progetto. Un potere personale che ha bisogno di intermediari li ricompensa con privilegi |
@@ -165,7 +187,7 @@ Per la popolazione sono semplicemente terre maledette.
 ## Economia
 
 | Elemento | Valore |
-|----------|--------|
+| --- | --- |
 | Valuta | **La Medaglia** — medaglie commemorative prebelliche a tema marittimo |
 | Conio | **Impossibile.** Massa monetaria finita e decrescente. Nessuna contraffazione possibile |
 | Water standard | 1 Medaglia = **1 litro** d'acqua potabile |
@@ -181,7 +203,7 @@ Per la popolazione sono semplicemente terre maledette.
 - **Il carbone come combustibile industriale è conoscenza perduta**: nessuna rivoluzione industriale è ripetibile
 - **Monopolio energetico**: solo il clero attiva le celle a fusione
 - **Armi da fuoco**: rarissime e clandestine. Impugnarne una senza concessione è **peccato ed eresia**, non reato
-- **Quattro livelli d'accesso**: 1 popolazione e milizie (armi bianche, archi, balestre) · 2 forze regolari · 3 veterani · 4 Lance Sacre (25-30 persone, armi a energia)
+- **Quattro livelli d'accesso**: 1 popolazione e milizie (armi bianche, archi, balestre) · 2 forze regolari · 3 veterani · 4 Lance Sacre, parte della Guardia (25-30 persone, armi a energia)
 - **Imbarcazioni a motore**: meno di dieci in tutta Italia, quasi tutte papali
 - **L'Italia non ha mai superato lo standard statunitense**: importava e applicava
 
@@ -190,7 +212,7 @@ Per la popolazione sono semplicemente terre maledette.
 ## Rifugi
 
 - **Rifugio papale di Gaeta** — prebellico, ecclesiastico, non la società americana. Origine dello Stato Pontificio
-- **Rifugio di Castel Sant'Angelo** — la trappola dei Custodi
+- **Rifugio di Castel Sant'Angelo** — il rifugio papale di Roma, diventato la trappola dei Custodi
 - **Rifugio della laguna veneziana** — origine dei Palustres
 - **Fortezza Futura e R.I.R.** — la concorrenza è una **messinscena**: entrambe controllate dalla società americana
 - **Le numerazioni non si inventano.** Un rifugio entra nel canone quando ha collocazione, storia e ragione di esistere
@@ -201,7 +223,7 @@ Per la popolazione sono semplicemente terre maledette.
 ## Nomenclatura
 
 | Non usare | Usare |
-|-----------|-------|
+| --- | --- |
 | Sette Isole Sacre | Arcipelago Centrale |
 | Gondolieri | Palustres |
 | Grande Palude | Alto Mare Dolce |
@@ -209,5 +231,6 @@ Per la popolazione sono semplicemente terre maledette.
 | Tecno-Sacerdoti | Artifex |
 | Muraglia Alpina | Corazza Alpina |
 | "ghoul" riferito ai Palustres | mutanti anfibi |
+| brew | Aqua Pacis (ufficiale) · l'Olio (popolare) |
 
 **Terminologia interna alla finzione**: la parola "ghoul" non esiste in Italia. La Chiesa dice *Contaminati*, *Corrotti*, *Maledetti*; la popolazione *Morti-Vivi*, *Putrefatti*; i Pirati chiamano se stessi *Sopravvissuti* o *Fratelli del Mare*.
