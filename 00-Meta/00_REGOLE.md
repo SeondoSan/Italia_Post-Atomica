@@ -5,6 +5,7 @@
 Sostituisce `ISTRUZIONI_REVISIONE_v5.1.1` e le patch v5.1.2, v5.1.3, v5.1.4, che possono essere archiviate.
 
 *Aggiornato al 16 agosto 2026 — chiusura della revisione v5.1.*
+*Aggiornamento del 18 agosto 2026: chiuse le questioni della sessione creativa 01 (v5.2) — vedi "Questioni Aperte" più sotto.*
 
 ---
 
@@ -107,17 +108,23 @@ Lo spazio aperto è marcato `[PLACEHOLDER - MODIFICABILE DAI CONTRIBUTORI]`: ins
 
 ## Questioni Aperte
 
+### Risolte in sessione creativa 01 (17 agosto 2026)
+
+- **Nome dell'ordine militare pontificio** → non esiste un nome d'insieme: quattro corpi distinti (le milizie, la Gendarmeria, la Guardia, l'Armata), ciascuno con un proprio committente. Vedere **Corpi Armati** in [00_CANONE](00_CANONE.md)
+- **Nome della sostanza** → quattro registri: Aqua Pacis (liturgico), la Pacis (ecclesiastico corrente), la Pace (popolare pulito), l'Olio (popolare di strada)
+- **Criterio dei 35.000 abitanti** → riformulato: non è una soglia demografica, è la funzione nel sistema MegalopolIT. Bari e Palermo sopravvivono come porti danneggiati. Propagazione ancora da fare in 02.5, 03.5, 04.1, 06.4
+- **Le celle a fusione si stanno esaurendo?** → sì: si degradano a ogni ciclo di ricarica, in un unico impianto prebellico ancora funzionante. Il potere della Chiesa ha una scadenza fisica, nota per intero solo al vertice
+- **Cosa fa il sacerdote quando benedice una cella?** → tre funzioni sovrapposte: liturgia pubblica, sostituzione fisica della cella, inventario che risale la gerarchia
+- **Il tunnel degli Appennini** → riconciliate entrambe le versioni precedenti: è un'opera militare prebellica (anni '60-'70), il cui cantiere di riapertura è un lavoro ecclesiastico che non finisce mai — la Chiesa non può permettersi di finirlo. Capo orientale controllato dalla Chiesa, capo occidentale tagliato dalla Grande Frattura
+
+Dettaglio completo nel documento delle decisioni della sessione creativa 01 (da conservare in `00-Meta/`, non ancora committato). Propagazione sui singoli moduli in corso.
+
 ### Da decidere prima di riprendere la fase creativa
 
-- **Nome dell'ordine militare pontificio** — registro simile a "Lance Sacre". Compare in 04.x, 05.1, 06.x, 08.x
-- **Nome della sostanza** — unificare "brew" e "Pace dell'Acqua". Ipotesi: nome ufficiale e nome popolare
-- **Criterio dei 35.000 abitanti** — se adottarlo come soglia rigida o come tendenza. Risolve Bari e Palermo
+Nessuna al momento — tutte le questioni aperte a fine v5.1 sono state chiuse nella sessione creativa 01 (vedi sopra).
 
 ### Grandi domande in sospeso
 
-- **Le celle a fusione si stanno esaurendo?** Se sì, il potere della Chiesa ha una scadenza fisica, e qualcuno ai vertici lo sa
-- **Cosa fa materialmente il sacerdote quando benedice una cella?** Procedura tecnica travestita da rito, o rito che accompagna un'operazione riservata
-- **Il tunnel degli Appennini** — ipotesi che esista già prima del 2077 con una diramazione verso il rifugio. Spiegherebbe l'impiego dell'esercito papale e darebbe al protagonista la via d'accesso. Da riconciliare con l'altra versione, che lo dà come cantiere ecclesiastico incompiuto
 - **Il conio delle Medaglie** come obiettivo del primo atto: non ricchezza, ma la capacità di crearla in un sistema dove nessun altro può
 - **Perché la società americana puntava sull'Italia**
 
@@ -127,18 +134,18 @@ Storia pre-2077 e mappa dei bersagli (02.5) · framework estetico atompunk per f
 
 ### Sospesi
 
-Nome tribale dei Palustres · origine della nebbia nella laguna veneziana · Titani e Chimere · terminologia latina di Parthenope · priore Filippo · cognomi di Menini e Don Mario · rapporto tra i cognomi signorili e i santi patroni.
+Nome tribale dei Palustres · origine della nebbia nella laguna veneziana · Titani e Chimere · terminologia latina di Parthenope · priore Filippo · cognomi di Menini e Don Mario · rapporto tra i cognomi signorili e i santi patroni · **quota e posizione esatta dello spartiacque del canale transappenninico**, tra Scheggia e Costacciaro, da verificare in cartografia · **intersezioni tra la rete di canali e il tunnel militare** — probabili, non da presupporre prima della verifica
 
 ---
 
 ## Azioni Pendenti sul Repository
 
-- [ ] Eliminare `05.3-lega-navigli.md` e `07.3-lupi-roma.md`
-- [ ] Verificare le rinomine: 05.2, 05.4, 05.6, 07.2
-- [ ] Decidere se mantenere `07.4-chimere.md` come contenitore
-- [ ] Valutare le rinomine sospese: `04.4` → religione, `09.4` → condizionamento
-- [ ] Archiviare i file meta superati: `00.7.0-lore-essenziale`, `00.1.1-workflow-claude`, `00.4-workflow-modulare`, `00.8.0-modifiche-da-implementare`, `Sviluppo-Moduli`
-- [ ] Spostare in `_SOSPESI/`: Consolidato Arcipelago, IDEE_NARRATIVE, Character Bible
+- [x] Eliminare `05.3-lega-navigli.md` e `07.3-lupi-roma.md`
+- [x] Verificare le rinomine: 05.2, 05.4, 05.6, 07.2
+- [x] Decidere se mantenere `07.4-chimere.md` come contenitore — eliminato (A20)
+- [x] Archiviare i file meta superati: `00.7.0-lore-essenziale`, `00.1.1-workflow-claude`, `00.4-workflow-modulare`, `00.8.0-modifiche-da-implementare`, `Sviluppo-Moduli`
+- [ ] Valutare la rinomina sospesa: `04.4-nuova-religiosita.md` → `04.4-religione.md` (`09.4` non si rinomina: è stato eliminato, A20)
+- [ ] Spostare in `_SOSPESI/`: IDEE_NARRATIVE — Consolidato Arcipelago e Character Bible sono già lì
 - [ ] Riscrivere la strategia di pubblicazione
 
 ---
