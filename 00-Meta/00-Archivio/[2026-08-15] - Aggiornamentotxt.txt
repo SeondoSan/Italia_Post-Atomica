@@ -1,0 +1,77 @@
+Ecco cosa mi serve. Ho separato ciò che chiude il 05 da ciò che blocca il 04 — se hai poco tempo, rispondi almeno al blocco B, perché senza quelle tre decisioni il modulo 04 non si può scrivere senza inventare.
+
+## A — Per chiudere il modulo 05
+
+1. **Nome dell'ordine militare pontificio**, al posto di "Custodi della Dottrina". Hai preferenze di registro? (militare-latino tipo "Milizia Apostolica", oppure sacrale-figurato come le Lance Sacre)
+R: dovrebbe suonare come lance sacre ma non l'ho ancora deciso.
+
+2. **I vescovi di sangue familiare**: il Papa lo sa e lo tollera, o è una cosa che gli è sfuggita in due secoli? Cambia radicalmente il personaggio.
+R: Qui c'è un palese accordo fra chiesa e mafie che collaborano nonostante poi le varie situazioni di doppiogioco (vedi vendita di armi: ogni tanto si giustizia un contrabbandiere per dare l'esempio)
+
+3. **Fazione alpina**: resti sulla versione attuale (solo brigantaggio) o vuoi che prepari la variante "fazione stroncata"? Nel secondo caso mi servono due cose: **quando** è stata schiacciata e **se la Chiesa l'ha fatto direttamente** o l'ha lasciata morire.
+R: c'è tutta una parte narrativa da fare per sviluppare ciò. Per ora rimane così.
+
+
+
+## B — Decisioni bloccanti per il modulo 04
+
+4. **La nobiltà**: ipotesi A (Famiglie = nobiltà), B (due strati distinti), C (parzialmente sovrapposti). Tocca 04.0, 04.1, 04.2 e 06.4.
+R:Opterei per cittadini civili che in qualche modo riescono ad imporsi (leader locali) che vengono tollerati e gestiti dalla chiesa. così su due piedi direi: dalle famiglie vengono molti ecclesiastici maggiori (vescovi, parroci per il controllo locale, cardinali, arcivescovi.. anche perché da qualche parte devono arrivare). I civili diventano al massimo nobili (signori locali, alternative a titoli come duca o conte: nel medioevo un nobile contava la sua ricchezza in base alla terra, qui forse è un po' diverso; magari il corrispettivo di un duca e qualcuno che controlla l'acqua potabile di una zona, che può vendere armi da fuoco agli autorizzati, che magari si occupa di trasporti.. insomma, potrebbero essere i capi delle gilde ad esempio. è qualcosa su cui non ho ancora lavorato ma potrebbe avere questa direzione).
+
+5. **Il "1077"**: resta o cade? È in sospeso da Chat 02 ed è il cuore di 04.5 e 04.3. Se resta, mi serve sapere se la popolazione usa quel calendario nella vita quotidiana ("siamo nell'anno 1216") o se è solo la data della catastrofe.
+R: è suggestivo ma temo debba cadere, non sta andando in nessuna direzione e non c'è un motivo vero, messo così è solo una velleità del papa (e mia).
+
+6. **Gli Artifex e i "nati-morti"**: il sistema dei bambini rapiti alla nascita e dichiarati morti — 15-20 l'anno — è canone o è materiale non approvato? È un pilastro di 04.0, 04.1 e 04.3, e se cade va sostituito con un altro meccanismo di reclutamento.
+R:Questo è assolutamente canone, questa gente lavora per la chiesa senza sapere da dove vengano, sono i frati di questo universo e sono molto importanti. Sono indottrinati ma non sanno bene cosa accade fuori dai loro monasteri il più delle volte, vivono isolati, gli abati sono piazzati dalla chiesa per controllarli, quindi non hanno un posizionamento chiaro nella tabella del karma. Anche qui è da sviluppare col tempo.
+
+
+## C — Società (04.0, 04.1)
+
+7. **Aspettativa di vita e struttura familiare**: famiglie numerose per necessità? Mortalità infantile alta? Serve un ordine di grandezza per la demografia.
+R:direi entrambe si, modificabile per esigenze di trama.
+
+8. **Chi sa leggere?** Clero, nobiltà, scribi — e basta? Un contadino sa firmare il proprio nome?
+R: Suppongo clero e famiglie + autodidatti.. già la nobiltà civile non è la nostra nobiltà, sono appena tollerati dalla chiesa.
+
+9. **La schiavitù dei Palustres è visibile alla popolazione comune**, o è confinata a cantieri e lagune che nessuno vede? La normalizzazione funziona diversamente nei due casi.
+R:La popolazione li considera demoni, abomini e così via, nessuno si fa grossi problemi. Se non fossero sedati col brew (da rinominare probabilmente) sarebbero senzienti ma così sono dei tossicodipendenti senza volontà propria.
+
+10. **Esiste mobilità sociale?** Un contadino può entrare nel clero, o le vie sono chiuse per nascita?
+R: Direi che al limite può diventare un monaco e ci saranno monasteri che vivono normalmente; non artifex e non credo sia disponibile una scala sociale.
+
+
+## D — Economia (04.2)
+
+11. **La Medaglia**: da rifondare senza l'impianto "impero romano". Preferisci un'identità marittima (come suggerisce la lore) o qualcosa di ecclesiastico? E chi la conia — solo la Chiesa?
+R: Sono medaglie commemorative propagandistiche legate al mare, coniate solo prima delle bombe ma molto distribuite (quanto ci serve per la trama). Nessuno può più coniarle.
+
+12. **Water standard**: confermi l'acqua come riferimento di valore, o resta baratto puro con la Medaglia come comodità?
+R: Confermo water standard, da qualche parte avevamo scritto 1 med=2 Litri h2o, nel primo fallout era una bottiglia d'acqua purificata, quindi circa 500-600 ml. potremmo anche fare 1 med=1 Litro, facile.
+
+13. **Il brew venduto agli umani**: quanto è diffuso? Vizio da porto o piaga sociale di massa? E le "Sante Pensioni" — microdosi agli anziani per indurre demenza — sono canone o materiale mai approvato?
+R:Dovrei rivedere la chat, se riesci a riassumere le discussioni posso decidere. Sicuramente "sante pensioni" è un nome AI non approvato e lo toglierò (non tutto necessita di un titolo, può essere una pratica e basta).
+
+## E — Religione e cultura (04.3, 04.4)
+
+14. **Quanto è riconoscibile il cattolicesimo?** Messa, sacramenti, santi, Natale e Pasqua sono ancora lì, o due secoli di manipolazione hanno prodotto qualcosa di deformato?
+R: Penso che sia intatto, solo tutto più medievale e sontuoso, come era ai tempi. è una sorta di restaurazionismo conservatore.
+
+15. **La Bibbia inaccessibile ai laici** era in IDEE_NARRATIVE: la confermi come canone?
+R: Si, nessuno può leggere se non i chierici e sicuramente non interpretare (1200 docet)
+
+16. **Esistono culti non cattolici?** Prima delle bombe l'Italia aveva minoranze religiose. Sopravvive qualcosa, o la Tabula Rasa ha ripulito anche quello?
+R: Ovviamente no, non sarebbero tollerati né a qualcuno verrebbe in mente in un sistema così chiuso.
+
+17. **Feste e calendario**: la vita è scandita dalle festività religiose — ne vuoi di specifiche del setting, o basta l'impianto tradizionale?
+R: Impianto tradizionale per ora.
+
+## F — Memoria (04.5)
+
+18. **Cosa crede esattamente un contadino sul passato?** Che ci fu una punizione divina e basta, o ha un racconto più articolato? E crede che esista un mondo fuori dall'Italia?
+R: La semplice punizione divina può bastare per un contadino. Crede che la chiesa sia buona a mantenere sicuri i confini probabilmente, quando vede soldati armati che vanno a fare una ronda verso quelle parti. Lui sa che deve starne alla larga.
+
+19. **I numeri romani illeggibili**: il trucco per cui le date sui monumenti sono incomprensibili è canone o va tra gli scarti?
+R: canone. anche se in realtà è riferito alle date e non serve più se togliamo il 1077, quindi forse si può scartare. cioè può essere un dettaglio, magari alla gente vengono insegnati solo i numeri romani e non gli arabi per criptare i documenti ma in realtà non sanno nemmeno leggere.. insomma, non ci serve più.
+
+20. **La fazione nascosta col supercomputer** resta un `[DA DEFINIRE]` in 04.5, o vuoi già fissare qualche paletto (dove, chi, se qualcuno ne parla)?
+R:Devo lavorarci, non ha senso parlarne qui, non ho ancora un dettaglio così interessante da fissare. tralasciamo per ora.

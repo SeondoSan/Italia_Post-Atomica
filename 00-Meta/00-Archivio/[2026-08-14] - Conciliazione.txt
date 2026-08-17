@@ -1,0 +1,283 @@
+Sto rileggendo tutto il progetto (in modo sommario), elenco tutto ciò che è da eliminare.
+
+Proporrei di buttare tutto in una specie di archivio che possa essere riletto all'occorrenza, poi dimmi tu.
+
+Di seguito annoto anche ciò che eventualmente modificherei ecc, così faccio una revisone io direttamente, non l'avevo mai fatta, dopo mesi è l'unica soluzione.
+
+- Modulo 2
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/02-Storia/02.0-situazione-prebellica-panoramica.md
+
+I nomi delle industrie belliche vanno inventati e non presi dalla realtà. la trasformazione dell'Italia in una potenza marittima è ispirata alle conferenze che spesso tiene Dario Fabbri riguardo la "Sea Blindness" dell'Italia, qui viene superata, il mare diventa il centro di tutto e la propaganda si concentra su questo.
+la rete di canali va studiata per bene, può essere narrativamente forte ma deve avere senso.
+Tecnologie di manipolazione della memoria è "falloutiano" ma va implementato bene oppure rimosso: non è il mio core, forse con eventuali contributori potrebbe diventare qualcosa.
+
+
+Periodo post-Bellico: "tabula rasa" forse potrebbe avere un nome più adatto. Il progetto in sé ci sta: non è cancellazione della memoria in senso letterale ma in senso propagandistico e collettivo da parte della chiesa con parallela raccolta e distruzione di prove risalenti alla civiltà precedente. Questo punto va fatto convivere bene con l'estetica: non possono abbattere ogni palazzo ma probabilmente i servizi segreti della chiesa vanno in giro a bruciare terminali, libri, cartelloni e via dicendo in stile Farenheit451, tutto ciò che può aiutare a mantenere la presa salda. ciò che sfugge al controllo è eresia o falsità, coloro che parlano della verità vengono visti e trattati come i nostri fanatici del complotto.
+
+Si parla di Pirati Ghoul: va stabilita la timeline esatta (o forse l'abbiamo fatto nella creativa recente).
+
+Il resto della timeline per ora può rimanere tale.
+
+
+
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/02-Storia/02.1-nuova-italia.md
+
+Qui si parte con il progetto MegalopolIT, forse avrebbe più senso durante il decennio buio: Prima si diventa una potenza marittima, dopodiché, per fare fronte alla scarsità di risorse si scavano canali e si collabora di più; questo permette a volte di sfruttare l'acqua per i trasporti anche quando il trasporto su gomma non è possibile a causa dello shortage.
+NB: da studiare per innalzamento mare e fattibilità ipotetica (siamo in piena propaganda, sarebbe una sorta di ponte sullo stretto di Messina, forse x10).
+
+Napoli deve diventare importante per qualche ragione, l'idea di base è che sia il punto nevralgico sul mare, quindi ci si sposta la capitale.
+
+Non sono convinto del "nuovo rinascimento". Oltre ad essere un palese cliché non è poi troppo realistico. Sicuramente qualcosa accade ma probabilmente è qualcosa di molto simile agli anni 50 americani (tipici di fallout). Inoltre è probabile che si intensifichi l'industria bellica e nascano nuove fabbriche. Tutto questo voler controllare il mare è esercitare un potere sul mediterraneo, per il controllo degli stretti (quindi dei commerci) e delle ZEE (Zone economiche esclusive).
+
+
+Quindi immagino che tutta questa propaganda potrebbe avere influenze sulle mode, sul vestiario ma non so quanto andrei lontano dal look italiano tipico anni 50', forse un mix: da studiare.
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/02-Storia/02.2-decennio-buio.md
+
+Questa parte dovrebbe essere Lore-Based, grossomodo.
+Forse "ora luminosa" non è il massimo. "Cattedrali di Luce" idem. però concettualmente possono avere senso. qui la chiesa riprende l'influenza sulla popolazione se mai l'avesse persa anche solo in parte. Fra l'altro la religione ufficiale è il cattolicesimo, qui non c'è un Partito Comunista/Socialista italiano che possa abolirla (era stata abolita da Craxi, nel contesto di fallout non sarebbe mai arrivato al parlamento).
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/02-Storia/02.3-italia-militare.md
+
+"Rinascimento Militare" altro cliché. Sebbene possa verificarsi qui la vera crescita dell'economia militare, non lo definirei così.
+Va trovato un colpevole: abbastanza semplice in politica opterei per "i rossi ci hanno privato dell'energia per 10 anni, dobbiamo tenerci pronti, armiamoci".
+Tuttavia radicherei la cosa già prima, al capitolo precedente: "siamo senza energia per colpa dei rossi, dobbiamo unirci e fare sacrifici!" (lavorando duramente per costruire MegalopolIT e ampliare l'industria bellica).
+
+"Posizionamento strategico dell'Italia come fornitore di armamenti" questo è narrativamente centrale: gli USA non riescono a produrre abbastanza armi e munizioni, contando anche le armature atomiche, quindi le importano dall'Italia, la quale fa il doppio gioco; verificare che sia plausibile. Inoltre la serie tv potrebbe aver aggiunto qualche dettaglio utile.
+
+"Progetto "Rinascimento Militare"
+Filosofia e Design
+Fusione di tradizione storica italiana e innovazione tecnologica
+Design delle armi che incorporava elementi artistici italiani
+Linee eleganti che differenziavano gli armamenti italiani
+Marketing patriottico che promuoveva le armi come simbolo di eccellenza
+Caratteristiche Distintive
+Estetica che richiamava l'eredità rinascimentale
+Attenzione alla forma oltre che alla funzione
+Personalizzazione e cura dei dettagli"
+Tutto questo è cliché, va eliminato.
+
+"Principali Aziende Armiere": I nomi come detto
+
+"Protocollo Tripartito (2060)
+Accordo segreto che formalizzava la collaborazione nel settore degli armamenti
+Divisione dei profitti e delle aree di competenza
+Infiltrazione reciproca nei diversi settori"
+Anche meno ufficiale.
+
+"Tecnologie Distintive Italiane": Altri cliché.. possiamo anche avere esclusive su qualcosa ma va studiato qualcosa di più interessante.
+
+"La Muraglia Alpina" forse era diventata corazza, ma non ricordo quale nome avevamo scelto. Coerente concettualmente con il momento di sfiducia fra paesi del Commonwealth.
+
+Fortezza futura e RIR hanno senso, Mnemopulse e meomoritalia vanno eliminati.
+Ri-Genesis potrebbe essere un po' cliché ma avrebbe senso con il personaggio del papa, vediamo.
+
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/02-Storia/02.4-tensioni-finali.md
+
+Qui tutto abbastanza coerente e interessante. da ggiungere un po' di estetica e propaganda (cartelloni con spot per acquisto di vault e via dicendo)
+
+
+Modulo 3
+Forse manca un capitolo sulla geografia pre bellica (canali, città importanti, porti, punti di interesse, aziende.. da ampliare in futuro per stabilire i bombardamenti).
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/03-Geografia/03.0-geografia-panoramica.md
+
+ Lega dei Navigli e Fratellanza Alpina sono probabilmente da eliminare almeno fino agli sviluppi del punto zero quando il papa verrà sconfitto, non esiste che permetta organizzazioni di tale portata.
+Anzi la fratellanza alpina può mettere radici in questa epoca ma inizialmente non sono altro che piccole bande, raccontiamo il fenomeno del brigantaggio in salsa alpi-radioattive (tipo partigiani ma decisamente rari, dei Robin Hood grossomodo).
+
+
+Centro Italia: Caratterizzato dall'influenza dello Stato Pontificio, dall'Arcipelago Centrale: qui in realtà lo stato pontificio continua a rendere la zona redioattiva per tenere lontani gli esterni e non permettere l'uscita dei custodi se dovessero uscire dal vault di Castel Sant'angelo.
+
+ Le Sette Isole Sacre altro nome cliché.
+L'Arcipelago Campano: forse un arcipelago solo può bastare, questo è di troppo.
+Le Alpi Irradiate: forse la gente non le chiama Alpi
+La Terra dei Laghi è interessante e se ci fossero altri laghi nuovi sparsi in tutto il nord italia potrebbe diventare il nome popolare per indicare l'area.
+
+"Le principali anomalie morfologiche
+Nel territorio italiano sono presenti diverse anomalie uniche:
+
+La Grande Frattura: Una spaccatura che attraversa l'Italia centrale dal Tirreno all'Adriatico, emersa dopo i bombardamenti di Roma
+Le Colonne di Calabria: Formazioni rocciose cilindriche alte centinaia di metri, emerse dopo un terremoto del 2120
+La Spirale Siciliana: Una formazione di colline concentriche intorno all'Etna, createsi dopo una serie di eruzioni anomale
+I Pilastri Alpini: Strutture naturali a forma di torre che segnano i principali valichi alpini"
+Qui forse manterrei solo la frattura che dovrebbe comprendere le sette isole, per il resto mi sembrano dettagli trascurabili. possiamo includere una nota tipo "possibilità di inserire strutture morfologiche notevoli da inventare".
+
+Il Corridoio Appenninico: parliamo ovviamente delle vie emerse, non del tunnel segreto di cui abbiamo parlato che si sviluppa sotto gli appennini.
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/03-Geografia/03.2-grande-guerra.md
+
+L'intero documento ha bisogno di un controllo ma non contiene informazioni nevralgiche, lo lascerei così per un eventuale aiuto della community (se ci sarà)
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/03-Geografia/03.3-regioni-nord.md
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/03-Geografia/03.4-regioni-centro.md
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/03-Geografia/03.5-regioni-sud.md
+
+I tre documenti sono considerabili place-holder con informazioni modificabili (salvo ciò che è consolidato).
+Se ad esempio, sempre stando al taglio community-based che vuole prendere il progetto, un utente vuole raccontare una storia legata ad un paese dell'entroterra genovese e necessita di una leggera licenza possiamo modificare il territorio a favore di trama senza stravolgere l'idea di base.
+
+Modulo 4
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/04-Societa/04.0-societa-panoramica.md
+
+Sincretismo Religioso-Tecnologico: da eliminare concettualmente, debole.
+Rinascita Medievale e Neofeudalesimo: Concettualmente possiamo avvicinarci ma di sicuro dobbiamo rivedere le gerarchie, i titoli e tutto il resto.
+
+Il resto del documento è da approfondire in futuro concettualmente con gerarchie più chiare ecc.
+Ci sarà da stabilire se possono esistere città stato ecc ma immagino che qualche eccezione possa esserci per non avere un singolo potere centrale.
+Nel modulo si parla di Città-stato del nord come di una cosa normale ma sarà molto meno frequente. Inoltre i link vanno a lega dei navigli ecc che abbiamo eliminato.
+
+"Sindrome dell'Eco": derivato da mnemopulse ecc : eliminare
+
+Altri Mutanti Umanoidi:
+Piccole popolazioni con mutazioni specifiche regionali
+"Respiratori" - mutanti con capacità respiratorie ampliate
+"Cristallini" - individui con crescite cristalline sulla pelle che forniscono protezione
+Non mi sembrano grandi idee
+
+
+Popolazioni Isolate: eliminare almeno le mutazioni, non escludo i gruppi di fatto.
+
+
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/04-Societa/04.2-economia.md
+
+La Medaglia - Valuta Universale del Wasteland Italiano: qui forse andrei su qualcosa di più marittimo e non sull'impero romano, era un prototipo.
+
+Distribuzione geografica: eliminare non serve
+Autenticazione e Sicurezza: eliminare non serve
+
+Forse come valore potremmo introdurre il "gold standard", in questo caso il "water standard" come in fallout, è derivativo ma è coerente con la lore e l'opera originale, inoltre da un senso di "abitudine".
+
+"Utilizzo Regionale": paragrafo superfluo da eliminare per semplificare
+
+
+Sistemi Economici Complementari.
+Baratto e Scambio Diretto: paragrafo inutilmente complesso, bastava dire Baratto
+Sistema del Credito della Lega: Lega inesistente come ogni riferimento ad essa.
+
+Risorse Economiche Strategiche
+Paragrafo anche troppo dettagliato ma per ora è placeholder per la poca importanza.
+(eliminerei certificatori di purezza, assaggiatori d'acqua..)
+
+Rotte Commerciali e Mercati
+Possono avere impoortanza narrativa ma va stabilito volta per volta, qui c'è addirittura troppo, togliamo i riferimenti alle leghe eliminate e il resto può essere un placeholder o finire nel documento di scarto per alleggerire la lore pubblica ufficiale.
+
+Mercati Specializzati
+Come sopra. se un utente vuole intessere una storia in cui nasce un mercato come nel ciclo di Kingsbridge  può farlo.
+
+in tutto ciò credo che la riscossione delle imposte possa non essere del tutto "piacevole" e regolare ma che potrebbe avvenire in modo "coatto" all'occorrenza.
+
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/04-Societa/04.3-cultura.md
+
+Il documento in generale è poco rilevante, possiamo togliere i riferimenti a tecnosanti e commistioni fra tecnologia e fede.
+Probabilmente tutto il capitolo è superfluo, nel post apocalisse mi aspetto profonda ignoranza, non cultura.
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/04-Societa/04.4-nuova-religiosita.mdù
+Idem come sopra, tutto ciò che fonde fede e tech è fuori luogo. (salvo per le "benedizioni" della cella di fuzione settimanale che alimenta il villaggio ma è propaganda)
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/04-Societa/04.5-memoria-collettiva.md
+
+I custodi usciranno dal vault dopo il punto zero.
+Possiamo togliere tutto il controllo mentale, i figli del silenzio, qui forse manca una specie di fazione nascosta che si sviluppa attorno alla conoscenza di una specie di super computer che sa tutto del passato (tipo AI) e che non viene trovato dalla chiesa. può essere un vault o qualcosaltro, da sviluppare diciamo. il resto del documento è obsoleto.
+Togliamo anche i riferimenti al reale medioevo ecc.
+
+Modulo 5
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/05-Fazioni/05.0-fazioni-panoramica.md
+
+Confederazione del Mare Dolce: circa 80.000-90.000 persone (19-21%)
+Fratellanza Alpina: circa 18.000 persone (4%)
+
+Obsolete
+
+Praticamente dobbiamo riconfigurare tutto con bande e piccoli gruppi che possono crescere e diventare dissidenti. 
+I pirati vanno bene secondo la loro timeline.
+Le famiglie esistono, i palustres pure.
+
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/05-Fazioni/05.1-stato-pontificio.md
+
+"la narrazione ufficiale della Chiesa attribuisce la fondazione a un intervento divino" anche eccessivo volendo
+"Fondazione ufficiale: 2207, con l'incoronazione di Papa Clemente XV (nato Romualdo Savellini)": errore, il papa è aeternus da prima delle bombe (prima altro nome)
+
+
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/05-Fazioni/05.2-citta-stato-nord.md
+Possono esistere città stato ribelli ma vanno riscritte e sviluppate come tali.
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/05-Fazioni/05.3-lega-navigli.md
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/05-Fazioni/05.4-fratellanza-alpina.md
+
+Già parlato
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/05-Fazioni/05.5-famiglie.md
+Documento place holder, qui bisogna stabilire fazioni doppio giochiste in accordo con le altre modifiche. è anche inutile mettersi a fare piccole modifiche ora temo, va rivisto da capo.
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/05-Fazioni/05.6-custodi-tempo.md
+Qui avevamo stabilito qualcosa, tipo i santi Mario ed Eugenio fondatori, la nuova chiesa custodiale che nasce per contrapporsi a quella cattolica corrotta, il nuovo papa che diventa condottiero e sconfigge il papa con l'aiuto dei pirati, del popolo e del protagonista della storia che parte dal punto zero.
+
+Modulo 6
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/06-Luoghi/06.1-parthenope.md
+Qui si parla di perdita di roma e pirati ma il papa sposta il vault a gaeta prima del 2077
+
+non darei troppe informazioni al momento, non servono a meno che non vi si ambienti una storia.
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/06-Luoghi/06.4-altri-centri.md
+Ci sono dei luoghi che toglierei del tutto e lascerei che sia chi scrive le storie ad ambientarle, questo documento deve costruirsi come conseguenza.
+L'unico appunto potrebbe essere sul fatto che la popolazione esce dai vault per ripartire e trovando i castelli sparsi per l'Italia tende a stabilirvisi per ovvie ragioni di sicurezza. Quindi tutta la lore si sviluppa per lo più attorno a castelli e fortificazioni ma non è una regola ferrea.
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/06-Luoghi/06.5-terre-selvagge.md
+L'idea di base è giusta ma molte cose sono obsolete e da togliere, da sfoltire pesantemente.
+
+Modulo 7
+Vado per creatura per sveltire un po'(anche perché potenzialmente può rientrare qualunque cosa)
+Palustres si ma non sono ghoul, devo rivedere un po' sono narrativamente importanti e occupano una zona specifica.
+Marmotte Telepatiche: più che telepatiche potremmo dotarle di ultrasuoni stordenti tipo flashbang, interessanti.
+Ratti Corazzati e Cinghiali Corazzati potremmo dare loro un'origine comune se vogliamo tenerli, da vedere.
+Lupi roma cliché.
+Sussurratori eliminare
+Sciami Intelligenti eliminare
+Aquile di Ferro eliminare
+Neo-Trogloditi: eliminare 
+Figli del Fuoco: eliminare
+Tartalupi eliminare
+Mantimurene eliminare
+Chimere Acquatiche: eliminare
+Colonie Radianti: eliminare
+Ombre Predatrici: eliminare
+
+Modulo 8 (dovrebbe essere stato aggiornato di recente o adddirittura creato durante la prima revisione, quindi più aggiornato)
+Eliminare: Tecno-Reliquiari, I Recuperatores, La Centuria Mercuriale, Le Gilde dei Calibri, Il "Progetto Rinascimento Militare", Caratteristiche Distintive del Design Italiano, 
+
+"Operazione Nuova Cartagine" forse qualcosa di meno impero romano?
+
+Il "Sistema Rinascimento" eliminare
+Proiettili "Affresco" eliminare
+Tecnologia "MicroFusione Mediterranea" valutare di non eccedere superando le tecnologie americane
+Sistema "Metamateriali Modulari" (M³) mi sembra poco fallout e molto decathlon/iron man
+
+Miti Tecnologici eliminare
+Recupero Tecnologico Recente (2277-2293): concettualmente ok ma da stabilire
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/08-Tecnologia/08.2-armamenti-moderni.md
+tutto il documento è un elenco di armi con nomi propri, non utile, cliché.
+
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/08-Tecnologia/08.3-traffico-armi.md
+Qui c'è un problema: siamo in Italia, non ci sono armi che circolano liberamente. Nel wasteland un po' di più ma la maggior parte della gente possiede al limite armi bianche (stiletti, balestre, archi..), non vedo bene dei mercati appositi.
+Questo diminuisce la portata e aumenta il valore.
+Le armi che circolano sono clandestine, spesso spacciate dalle famiglie con l'aiuto di alcuni vescovi che vogliono arrotondare.
+I banditi a volte ne hanno qualcuna ma sono costose e le munizioni pure.
+Togliamo tutti i riferimenti a ciò che è già stato eliminato ovviamente.
+I "Certificatori": eliminare
+
+https://github.com/SeondoSan/Lore-Italia-Postatomica/blob/main/Fallout-Italia/08-Tecnologia/08.4-arsenali-perduti.md
+Solo placeholder per ora, può esistere in effetti e ha senso (anche depositi di medaglie) ma è da scrivere, queste sono proposte di claude, non so se vanno bene e siano coerenti.
+
+Modulo 9
+Non ho ancora deciso dove o quando piazzarli, possiamo tenere come placeholder le informazioni generali, mantenere ciò che è consolidato (Gaeta, i plaustres ecc) e rimuovere il resto.
