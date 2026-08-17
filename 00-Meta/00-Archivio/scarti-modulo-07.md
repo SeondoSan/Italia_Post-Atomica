@@ -6,6 +6,7 @@ Nulla è cancellato: ogni blocco è ripescabile in fase creativa o da contributo
 ---
 
 ## [07.0-creature-panoramica.md] — Creature eliminate per A.1 — rimosso v5.1
+
 Motivo: AI-noise o cliché, secondo l'elenco delle eliminazioni globali.
 
 ```
@@ -25,6 +26,7 @@ Motivo: AI-noise o cliché, secondo l'elenco delle eliminazioni globali.
 ---
 
 ## [07.0-creature-panoramica.md] — Specie mai validate — rimosso v5.1
+
 Motivo: nomi e descrizioni generati nelle prime sessioni, mai approvati dall'autore. Alcuni sono cliché evidenti. Il bestiario va ricostruito in una sessione dedicata.
 → Riutilizzabili in tutto o in parte se validati.
 
@@ -40,6 +42,7 @@ Motivo: nomi e descrizioni generati nelle prime sessioni, mai approvati dall'aut
 ---
 
 ## [07.0-creature-panoramica.md] — Palustres come specie libera e capacità psichiche — rimosso v5.1
+
 Motivo: A.2/A.3. I Palustres non sono ghoul, non sono liberi, non hanno accordi commerciali: sono allevati in cattività e sedati dalla nascita. Le marmotte perdono la telepatia (sostituita da capacità a ultrasuoni, vedere 07.5).
 
 ```
@@ -53,6 +56,7 @@ Motivo: A.2/A.3. I Palustres non sono ghoul, non sono liberi, non hanno accordi 
 ---
 
 ## [07.0-creature-panoramica.md] — Coesistenza, addestramento e studi delle fazioni — rimosso v5.1
+
 Motivo: A.1/A.3. Lega dei Navigli e Fratellanza Alpina non esistono; i Custodi sono sigillati nel rifugio e non tengono archivi accessibili; nessuna creatura è addestrata da nessuno.
 
 ```
@@ -70,6 +74,7 @@ Nota: l'interpretazione ecclesiastica delle mutazioni come segno della Punizione
 ---
 
 ## [07.0-creature-panoramica.md] — Evoluzione recente 2277-2293 — rimosso v5.1
+
 Motivo: come negli altri moduli. Descrive un ecosistema in evoluzione osservabile e documentata, cosa che presuppone osservatori sistematici inesistenti al Punto Zero.
 
 ```
@@ -81,6 +86,7 @@ Motivo: come negli altri moduli. Descrive un ecosistema in evoluzione osservabil
 ---
 
 ## [07.1-mutazioni-panoramica.md] — Mutazioni neurologiche e psichiche — rimosso v5.1
+
 Motivo: nessuna creatura dell'ambientazione ha capacità che escano dal piano fisico. Telepatia, coscienza collettiva e percezione extrasensoriale appartengono al registro fantastico eliminato dalla revisione.
 
 ```
@@ -96,6 +102,7 @@ Motivo: nessuna creatura dell'ambientazione ha capacità che escano dal piano fi
 ---
 
 ## [07.1-mutazioni-panoramica.md] — Anomalie mutazionali — rimosso v5.1
+
 Motivo: coerenza con le rimozioni delle zone anomale nei moduli 03 e 06.
 
 ```
@@ -107,6 +114,7 @@ Motivo: coerenza con le rimozioni delle zone anomale nei moduli 03 e 06.
 ---
 
 ## [07.1-mutazioni-panoramica.md] — Meccanismi biologici e integrazione bio-tecnologica — rimosso v5.1
+
 Motivo: pseudo-scienza di dettaglio senza funzione narrativa, e in parte incompatibile. Nessun organismo ha incorporato nanomacchine o componenti artificiali.
 
 ```
@@ -131,6 +139,7 @@ Nota: il materiale biologico prebellico liberato dalla distruzione dei laborator
 ---
 
 ## [07.1-mutazioni-panoramica.md] — Catalogazione per fazioni — rimosso v5.1
+
 Motivo: A.1/A.3. I Custodi sono sigillati e non tengono archivi accessibili; Fratellanza Alpina e Lega dei Navigli non esistono. Al Punto Zero nessuno cataloga le mutazioni.
 Nota: l'interpretazione teologica pontificia è stata conservata in forma sintetica in 07.0.
 
@@ -151,6 +160,7 @@ Catalogazione per valore commerciale: materiali rari, potenziale addomesticament
 ---
 
 ## [07.1-mutazioni-panoramica.md] — Studi recenti e prospettive future — rimosso v5.1
+
 Motivo: presuppone osservazione sistematica e continuativa, inesistente al Punto Zero. Le "meta-comunità" e la co-evoluzione con gli umani appartengono inoltre al registro eliminato.
 
 ```
@@ -166,6 +176,7 @@ Nota: il rallentamento del tasso mutazionale è stato conservato come stato di f
 ---
 
 ## [07.2-palustres.md] — Origine e sottomissione superate — rimosso v5.1
+
 Motivo: A.3 e canone di fase creativa. I Palustres non sono ghoul, non discendono da sopravvissuti rifugiatisi nelle lagune e non sono stati sottomessi con un negoziato: nascono in un rifugio allagato ed escono verso il 2180, già destinati alla cattura.
 
 ```
@@ -183,6 +194,7 @@ Tra il 2200 e il 2230 emissari pontifici contattarono le comunità di Palustres 
 ---
 
 ## [07.2-palustres.md] — Palustres liberi — rimosso v5.1
+
 Motivo: canone di fase creativa. **Non esistono Palustres liberi.** Sono bestiame dall'origine, nati in cattività e dipendenti dalla nascita. È il punto che rende la loro condizione peggiore di una schiavitù: non c'è una libertà perduta da rimpiangere.
 
 ```
@@ -198,6 +210,7 @@ I sedati mostrano movimenti più lenti, reattività ridotta, colorazione più pa
 ---
 
 ## [07.2-palustres.md] — Biologia superata — rimosso v5.1
+
 Motivo: i Palustres sono **mammiferi** — partoriscono, allattano, hanno legami familiari. La riproduzione ovipara con fase larvale è incompatibile. Rimossi anche gli adattamenti mai approvati.
 
 ```
@@ -216,6 +229,7 @@ Nota: la luminescenza è stata conservata, ma è diffusa e cutanea, prodotta dal
 ---
 
 ## [07.2-palustres.md] — Funzioni operative militari ed equipaggiamento — rimosso v5.1
+
 Motivo: i Palustres sono manodopera sedata, non una forza ausiliaria armata. Non pattugliano, non fanno deterrenza, non portano armi.
 → Parzialmente recuperabile nell'Atto 2, dopo l'emancipazione.
 
@@ -235,6 +249,7 @@ Nota: il recupero di materiali dalle rovine sommerse resta canonico come lavoro 
 ---
 
 ## [07.2-palustres.md] — Percezione delle fazioni eliminate e leggende — rimosso v5.1
+
 Motivo: A.1 — Lega dei Navigli e Fratellanza Alpina non esistono. Le leggende presuppongono Palustres liberi e comunicazione a distanza.
 Nota: "Il Canto che Libera" è recuperabile in altra forma — l'idea che la sedazione sia interrompibile è narrativamente centrale per l'Atto 2.
 
@@ -252,10 +267,12 @@ Nota: "Il Canto che Libera" è recuperabile in altra forma — l'idea che la sed
 ---
 
 ## [07.3-lupi-roma.md] — FILE ELIMINATO INTEGRALMENTE — rimosso v5.1
+
 Motivo: A.1 — cliché. Canidi con intelligenza comparabile a quella umana, lingua strutturata, tribù, concili, proto-scrittura e mitologia propria costituiscono una civiltà parallela che l'ambientazione non prevede e che sposterebbe il baricentro del setting.
 Il file è stato rimosso dal repository. Il testo integrale resta recuperabile dalla cronologia git precedente alla v5.1.
 
 ### Identità e origine
+
 ```
 Discendenti dei lupi appenninici, diffusi negli Appennini centrali e nelle aree boschive attorno all'antica Roma. Intelligenza comparabile a quella umana, organizzazioni sociali complesse, cultura rudimentale.
 
@@ -265,6 +282,7 @@ Il Mito della Lupa Capitolina — tradizione orale secondo cui i primi Lupi nacq
 ```
 
 ### Caratteristiche fisiche
+
 ```
 Lunghezza 180-220 cm, altezza al garrese 90-110 cm, peso 90-140 kg. Struttura scheletrica robusta, arti anteriori più lunghi e flessibili con limitata capacità di manipolazione, cranio espanso, morso di forza doppia, molari sviluppati per dieta varia.
 
@@ -276,6 +294,7 @@ Ciclo vitale: gestazione 70-75 giorni, 3-5 cuccioli, dipendenza fino a 2 anni, m
 ```
 
 ### Cognizione e linguaggio
+
 ```
 Volume cerebrale 2,5 volte maggiore, corteccia prefrontale sviluppata, lobi frontali espansi, aree del linguaggio parzialmente sviluppate.
 
@@ -285,6 +304,7 @@ Linguaggio vocale con 80-100 "parole" distinte e regole sintattiche rudimentali,
 ```
 
 ### Società e comportamento
+
 ```
 Tecniche di caccia: pianificazione con ruoli assegnati (guidatori, intercettori, finitori), trappole improvvisate, diversione coordinata con lupi esca, caccia adattativa, selezione sostenibile delle prede.
 
@@ -294,6 +314,7 @@ Sopravvivenza: rilevamento delle radiazioni, dieta diversificata, uso delle rovi
 ```
 
 ### Eventi e personaggi
+
 ```
 Evoluzione 2277-2293: alleanze intertribali con incontri stagionali, espansione territoriale, sviluppo di dialetti tribali, interesse per manufatti tecnologici, prime forme di proto-scrittura graffita su legno o pietra.
 
@@ -305,6 +326,7 @@ Individui: Occhi d'Ambra e Zanna Spezzata (Capitolina); Balzo Notturno e Luna Si
 ```
 
 ### Rapporti e leggende
+
 ```
 Stato Pontificio: ufficialmente "bestie dell'abisso", ma relazione segreta con alcune tribù tramite ordini monastici isolati; alcuni testi li interpretano come "guardiani inviati per espiare i peccati dell'uomo".
 Custodi: li studiano come "esperimento naturale di evoluzione accelerata", con protocolli di comunicazione e punti di osservazione.
@@ -316,6 +338,7 @@ Leggende: I Parlanti (esemplari anziani che parlano la lingua umana e consiglian
 ```
 
 ### Note per un eventuale recupero
+
 - **Lupi mutati di grande taglia** restano perfettamente compatibili col canone come fauna pericolosa degli Appennini, purché privi di linguaggio, cultura e organizzazione tribale. Se si vuole conservare qualcosa, è questo
 - **Il Mito della Lupa Capitolina** funzionerebbe meglio come **leggenda umana** sui lupi, non come tradizione orale dei lupi stessi: conserva il fascino del parallelo con Romolo e Remo senza attribuire agli animali una mitologia propria
 - **I Parlanti** e le altre leggende sono recuperabili come superstizioni delle comunità rurali, cioè come cose che la gente racconta e non come fatti
@@ -331,10 +354,12 @@ Leggende: I Parlanti (esemplari anziani che parlano la lingua umana e consiglian
 ---
 
 ## [07.4-chimere.md] — Chimere Acquatiche, contenuto integrale — rimosso v5.1
+
 Motivo: A.1 — le chimere sono eliminate. Nell'ambientazione non esistono ibridi tra specie diverse: ciò che sembra un ibrido è una specie sola molto modificata. Il file è stato svuotato e mantenuto come contenitore per la futura fauna acquatica.
 Il testo integrale resta recuperabile dalla cronologia git precedente alla v5.1.
 
 ### Origine e teorie
+
 ```
 Creature ibride che combinano caratteristiche di diverse specie marine e talvolta terrestri, presenti in acque costiere, laghi e fiumi maggiori.
 
@@ -344,33 +369,39 @@ Cronologia: 2120-2140 prime osservazioni nel Tirreno centrale; 2140-2180 prolife
 ```
 
 ### Morfologia
+
 ```
 Lunghezza da 2 a 7 metri, massa da 200 kg a oltre 2 tonnellate. Struttura ibrida che combina pesci, cetacei, molluschi e crostacei. Sviluppo asimmetrico di appendici e organi. Iperpigmentazione con colorazioni vivide o motivi complessi.
 ```
 
 ### Varianti
+
 ```
 Leviathani, Kraken, Caronte, Scilla, Tritoni — cinque tipologie principali, ciascuna con adattamenti, dimensioni e comportamenti predatori distinti.
 Varianti regionali: Chimere del Tirreno, dell'Adriatico, dello Ionio e d'acqua dolce.
 ```
 
 ### Ecologia e comportamento
+
 ```
 Habitat e distribuzione lungo tutte le acque della penisola; comportamento predatorio specializzato; intelligenza e socialità sviluppate; sistemi di comunicazione propri.
 ```
 
 ### Rapporti con gli umani
+
 ```
 Pericoli per la navigazione; sistema di classificazione della minaccia; tecniche di difesa e contromisure; utilizzo e sfruttamento da parte delle fazioni.
 ```
 
 ### Eventi 2277-2293
+
 ```
 La Crisi dei Tritoni (2285-2286); La Grande Migrazione (2290); Il Fenomeno dei "Cavalcatori" (2291-presente).
 Sezioni su ricerca, studi intrapresi, teorie emergenti e aree di ricerca futura — tutte incompatibili con l'assenza di ricerca sistematica al Punto Zero.
 ```
 
 ### Note per un eventuale recupero
+
 - **Grandi predatori acquatici** restano necessari all'ambientazione: l'Alto Mare Dolce e le coste hanno bisogno di qualcosa che li renda pericolosi. Vanno però ricostruiti come discendenti di una specie identificabile, non come ibridi
 - La **teoria dell'evoluzione convergente** è l'unica delle tre compatibile col canone, e spiega bene perché creature diverse possano somigliarsi
 - I "**Cavalcatori**" e le altre vicende recenti presuppongono osservazione sistematica e rapporti strutturati con la fauna: non recuperabili al Punto Zero
@@ -378,6 +409,7 @@ Sezioni su ricerca, studi intrapresi, teorie emergenti e aree di ricerca futura 
 ---
 
 ## [07.5-altre-creature.md] — Creature eliminate per A.1 — rimosso v5.1
+
 Motivo: elencate esplicitamente tra le eliminazioni globali.
 
 ```
@@ -394,6 +426,7 @@ Motivo: elencate esplicitamente tra le eliminazioni globali.
 ---
 
 ## [07.5-altre-creature.md] — Creature incompatibili col registro dell'ambientazione — rimosso v5.1
+
 Motivo: pur non essendo nell'elenco delle eliminazioni globali, ricadono nei divieti stabiliti dalla revisione — vegetali mobili o senzienti, entità incorporee, creature legate a zone anomale, umanoidi mitologici.
 
 ```
@@ -410,6 +443,7 @@ Motivo: pur non essendo nell'elenco delle eliminazioni globali, ricadono nei div
 ---
 
 ## [07.5-altre-creature.md] — Ricerca, addomesticamento, culti e prospettive — rimosso v5.1
+
 Motivo: A.3. Al Punto Zero non esiste ricerca sistematica sulla fauna, né addomesticamento organizzato, né specie "recentemente scoperte" — perché non c'è nessuno che scopra e registri. I culti rituali attorno alle creature contraddicono inoltre il monopolio religioso cattolico.
 
 ```
@@ -429,5 +463,60 @@ Motivo: A.3. Al Punto Zero non esiste ricerca sistematica sulla fauna, né addom
 ```
 
 Nota: la superstizione popolare attorno alle creature resta possibile come folklore locale (vedere 04.3), ma non come culto organizzato.
+
+## [07.4-chimere.md] — scheletro placeholder "Creature Acquatiche" — rimosso v5.2
+
+Motivo: A20 — file eliminato prima della pubblicazione ("Chimere Acquatiche" è nome proibito, presente anche solo nel filename). Il contenuto utile (skeleton "Da Sviluppare" e "Vincoli") confluirà come sezione in 07.5-altre-creature.md nella sessione dedicata al bestiario.
+
+# CREATURE ACQUATICHE
+
+<!-- NOTA: il file si chiamava 07.4-chimere.md ed è stato svuotato. Le "Chimere Acquatiche" sono eliminate: nell'ambientazione non esistono ibridi tra specie diverse. Da decidere se mantenere il file come contenitore per la futura fauna acquatica o rimuoverlo del tutto -->
+
+[← Torna all'indice principale](../01-Indice/01.0-indice-principale.md)
+
+**File correlati:**
+
+- [Creature (Panoramica)](../07-Creature/07.0-creature-panoramica.md)
+- [Mutazioni (Panoramica)](../07-Creature/07.1-mutazioni-panoramica.md)
+- [Palustres](../07-Creature/07.2-palustres.md)
+- [Alto Mare Dolce](../06-Luoghi/06.3-alto-mare-dolce.md)
+
+---
+
+> `[PLACEHOLDER - DA SVILUPPARE IN FASE CREATIVA]`
+> 
+> Il contenuto precedente di questo file è stato interamente archiviato in
+> `_ARCHIVIO/scarti-modulo-07.md`.
+> 
+> **Cosa cade**: le Chimere Acquatiche come categoria. Nell'ambientazione non esistono
+> ibridi tra specie diverse — ciò che sembra un ibrido è una specie sola che si è
+> modificata molto (vedere [07.1](../07-Creature/07.1-mutazioni-panoramica.md)).
+> 
+> **Cosa serve**: l'acqua è ovunque in questo mondo — l'Alto Mare Dolce, i canali, le coste,
+> l'Arcipelago — e la fauna acquatica alterata è la base alimentare di gran parte della
+> popolazione oltre che uno dei pericoli principali. Il vuoto va riempito, ma con creature
+> plausibili.
+
+---
+
+## Da Sviluppare
+
+`[DA DEFINIRE IN FASE CREATIVA]`
+
+- **Fauna dell'Alto Mare Dolce**: cosa si pesca, cosa si mangia, cosa mangia te
+- **Fauna costiera**: le specie delle acque sotto costa, le uniche navigabili
+- **Fauna dell'Arcipelago Centrale**: predatori della palude radioattiva `[coordinare con 06.2]`
+- **Fauna d'acqua dolce**: laghi alpini, fiumi, canali superstiti
+- **Pericoli per la navigazione**: cosa rende rischioso attraversare l'Alto Mare Dolce
+
+### Vincoli
+
+1. Nessun ibrido tra specie diverse: ogni creatura discende da una specie prebellica identificabile
+2. Nessuna capacità psichica, nessuna intelligenza paragonabile a quella umana, nessuna organizzazione sociale complessa
+3. Dimensioni, corazzature, tolleranza alle radiazioni e metabolismo alterato sono gli assi di mutazione disponibili
+
+---
+
+[← Torna all'indice principale](../01-Indice/01.0-indice-principale.md) | [← Palustres](../07-Creature/07.2-palustres.md) | [Altre Creature →](../07-Creature/07.5-altre-creature.md)
 
 ---
