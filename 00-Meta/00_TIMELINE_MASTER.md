@@ -29,6 +29,7 @@
 | 2050-2077 | **L'Italia Militare** — conversione all'industria bellica |
 | dal 2065 | **Conflitto Sino-Americano**. L'Italia produce armamenti convenzionali per l'Occidente e, di nascosto, per il fronte opposto |
 | anni '60 | Importazione della tecnologia a **fusione nucleare** dagli Stati Uniti |
+| anni '60-'70 | Costruzione del **tunnel appenninico**: opera militare coperta, per il movimento di materiale bellico tra i due mari senza esporlo. Non fa parte della rete di canali |
 | fine anni '50 | Fondazione di **Fortezza Futura** e, un anno dopo, di **R.I.R.** — concorrenza fittizia: entrambe controllate dalla stessa società americana |
 | 2070-2077 | **Tensioni Crescenti** — corsa ai rifugi, isolazionismo, propaganda della fine |
 | pre-2077 | Costruzione del **rifugio papale di Gaeta** nelle gallerie di Monte Orlando |
@@ -90,7 +91,7 @@ Clemente XVI si trova già nel rifugio papale di Gaeta. Il rifugio sotto Castel 
 | ~2180 | **Comparsa dei Palustres**: i primi escono nuotando dal rifugio veneziano. La Chiesa li scopre e inizia le catture sistematiche |
 | 2200-2250 | **Navigazione verso Ovest** dei Pirati: attraversamento della barriera radioattiva del Mediterraneo orientale |
 
-`[DA DEFINIRE IN FASE CREATIVA: strutturazione dell'allevamento dei Palustres, avvio del sistema del brew, cronologia interna del pontificato]`
+`[DA DEFINIRE IN FASE CREATIVA: strutturazione dell'allevamento dei Palustres, avvio della produzione dell'Aqua Pacis, cronologia interna del pontificato]`
 
 ---
 
@@ -98,7 +99,7 @@ Clemente XVI si trova già nel rifugio papale di Gaeta. Il rifugio sotto Castel 
 
 | Data | Evento |
 |------|--------|
-| **2250** | **Arrivo dei Pirati in Italia.** Le guardie pontificie di frontiera li intercettano e attaccano. Perdite gravissime; i superstiti si rifugiano nell'Arcipelago Centrale |
+| **2250** | **Arrivo dei Pirati in Italia**, risalendo dall'Adriatico attraverso il vecchio canale transappenninico in rovina (corridoio Fano–Furlo–Tevere): credono di entrare in un mare, non cercano Roma. Incidente con le guardie di frontiera all'imbocco orientale — una guarnigione che vede comparire una nave sconosciuta, non una decisione politica. La nave grande, troppo pesante per un canale ridotto a una scala d'acqua rotta, viene abbandonata; i superstiti proseguono con imbarcazioni minori, fuggono verso occidente e si incagliano nell'Arcipelago Centrale. Castel Sant'Angelo è il primo approdo asciutto e difendibile: vi restano per eliminazione, non per scelta, ignari di cosa si trovi sotto |
 | 2252-2255 | **Prima Crociata**, fallita |
 | 2250-2293 | Crociate successive, tutte fallite. Raid pirata sulle rotte fiscali appenniniche. Commercio clandestino con i contrabbandieri del Nord |
 | **2293** | **PUNTO ZERO** — quarant'anni di guerra in corso |
