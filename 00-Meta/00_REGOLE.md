@@ -4,8 +4,8 @@
 
 Sostituisce `ISTRUZIONI_REVISIONE_v5.1.1` e le patch v5.1.2, v5.1.3, v5.1.4, che possono essere archiviate.
 
-*Aggiornato al 16 agosto 2026 — chiusura della revisione v5.1.*
-*Aggiornamento del 18 agosto 2026: chiuse le questioni della sessione creativa 01 (v5.2) — vedi "Questioni Aperte" più sotto.*
+*Aggiornato al 18 agosto 2026 — chiusura della propagazione della sessione creativa 01 (v5.2).*
+*Il progetto è ora alle porte della sessione di cartografia, che è il collo di bottiglia di tutto ciò che resta aperto.*
 
 ---
 
@@ -117,11 +117,23 @@ Lo spazio aperto è marcato `[PLACEHOLDER - MODIFICABILE DAI CONTRIBUTORI]`: ins
 - **Cosa fa il sacerdote quando benedice una cella?** → tre funzioni sovrapposte: liturgia pubblica, sostituzione fisica della cella, inventario che risale la gerarchia
 - **Il tunnel degli Appennini** → riconciliate entrambe le versioni precedenti: è un'opera militare prebellica (anni '60-'70), il cui cantiere di riapertura è un lavoro ecclesiastico che non finisce mai — la Chiesa non può permettersi di finirlo. Capo orientale controllato dalla Chiesa, capo occidentale tagliato dalla Grande Frattura
 
-Dettaglio completo nel documento delle decisioni della sessione creativa 01 (da conservare in `00-Meta/`, non ancora committato). Propagazione sui singoli moduli in corso.
+Le venti decisioni per esteso stanno in `00-Meta/00-Archivio/00_DECISIONI_FASE_CREATIVA_01.md`, sezione A. **La sezione B di quel documento non è propagabile**: sono questioni in attesa della cartografia e non vanno scritte in lore in nessuna forma, nemmeno come ipotesi.
 
-### Da decidere prima di riprendere la fase creativa
+### Bloccate dalla sessione di cartografia
 
-Nessuna al momento — tutte le questioni aperte a fine v5.1 sono state chiuse nella sessione creativa 01 (vedi sopra).
+Quattro decisioni non si possono chiudere senza una mappa, e da esse dipende la riscrittura di `08.6-energia` e di parte del modulo 03:
+
+- **Dove si trova l'impianto di ricarica.** Criteri fissati (sito industriale prebellico sopravvissuto, accesso a strozzatura unica, difendibile con guarnigione limitata, non un'isola); collocazione no
+- **Quota e posizione dello spartiacque** del canale transappenninico. Il passo della Scheggia (632 m) **non** è lo spartiacque Adriatico-Tirreno: collega due bacini adriatici. Il valico vero è più a sud, tra Scheggia e Costacciaro
+- **Allineamento e quote del tunnel militare**
+- **Destino della Grande Frattura**: mantenuta per ora, ma la sua eliminazione resta un'ipotesi aperta. Se cade, l'estensione dell'Arcipelago Centrale e la riga sulla penisola spezzata in due vanno riscritte
+
+### Aperte, non bloccate
+
+- **Gerarchia interna e gradi** dei quattro corpi armati
+- **Servizi d'informazione della Chiesa.** La confessione ne svolge già gran parte della funzione: da capire se serva altro
+- **La creatura che assedia l'impianto.** Vincoli fissati (attirata dall'impianto stesso, popolazione con un ciclo e non un singolo esemplare, conseguenza dell'attività della Chiesa); natura biologica da definire con il bestiario
+- **Perché il Papa era a Gaeta e non a Roma.** Se sapeva che Roma sarebbe stata colpita, qualcuno gliel'ha detto. È la porta d'ingresso alla domanda sulla società americana
 
 ### Grandi domande in sospeso
 
@@ -140,13 +152,25 @@ Nome tribale dei Palustres · origine della nebbia nella laguna veneziana · Tit
 
 ## Azioni Pendenti sul Repository
 
-- [x] Eliminare `05.3-lega-navigli.md` e `07.3-lupi-roma.md`
-- [x] Verificare le rinomine: 05.2, 05.4, 05.6, 07.2
-- [x] Decidere se mantenere `07.4-chimere.md` come contenitore — eliminato (A20)
-- [x] Archiviare i file meta superati: `00.7.0-lore-essenziale`, `00.1.1-workflow-claude`, `00.4-workflow-modulare`, `00.8.0-modifiche-da-implementare`, `Sviluppo-Moduli`
-- [ ] Valutare la rinomina sospesa: `04.4-nuova-religiosita.md` → `04.4-religione.md` (`09.4` non si rinomina: è stato eliminato, A20)
-- [ ] Spostare in `_SOSPESI/`: IDEE_NARRATIVE — Consolidato Arcipelago e Character Bible sono già lì
+### Da correggere subito
+
+- [ ] **Link rotto** in `07.5-altre-creature.md`, barra di navigazione: punta a `07.4-chimere.md`, eliminato
+- [ ] **Link rotto** in `09.5-sopravvissuti-rifugi.md`, barra di navigazione: punta a `09.4-condizionamento.md`, eliminato
+- [ ] **Nota obsoleta** in `04.1-demografia.md`: dice che "brew" e "Pace dell'Acqua" vanno unificati. La decisione è presa (A18), la nota va rimossa
+- [ ] Spostare `00_DECISIONI_FASE_CREATIVA_01.md` da `00-Meta/00-Archivio/` a `00-Meta/`: è materiale attivo di riferimento, non uno scarto
+
+### In sospeso
+
+- [ ] Valutare la rinomina sospesa: `04.4-nuova-religiosita.md` → `04.4-religione.md`
 - [ ] Riscrivere la strategia di pubblicazione
+- [ ] Decidere se mantenere i file `scarti-modulo-XX`: git conserva già ogni riga rimossa con data e commit. L'archivio aggiunge solo il **motivo**, che ha valore per ciò che potrebbe tornare (materiale per l'Atto 2) e non per ciò che è stato tolto perché sbagliato
+
+### Eseguite
+
+- [x] Eliminare `05.3-lega-navigli.md`, `07.3-lupi-roma.md`, `07.4-chimere.md`, `09.4-condizionamento.md`
+- [x] Verificare le rinomine: 05.2, 05.4, 05.6, 07.2
+- [x] Archiviare i file meta superati
+- [x] Spostare in `00-Sospesi/`: IDEE NARRATIVE, Consolidato Arcipelago, Character Bible
 
 ---
 
@@ -154,8 +178,24 @@ Nome tribale dei Palustres · origine della nebbia nella laguna veneziana · Tit
 
 | Modulo | Stato |
 |--------|-------|
-| 02 Storia · 03 Geografia · 04 Società · 05 Fazioni | ✅ completi |
-| 06 Luoghi · 07 Creature · 08 Tecnologia · 09 Rifugi | ✅ completi |
+| 02 Storia · 03 Geografia · 04 Società · 05 Fazioni | ✅ revisionati, propagazione v5.2 eseguita |
+| 06 Luoghi · 07 Creature · 08 Tecnologia · 09 Rifugi | ✅ revisionati, propagazione v5.2 eseguita |
 | 01 Indice | ✅ aggiornato |
 
-**47 file di lore. 8 archivi. 2 file eliminati.**
+**47 file di lore. 8 archivi. 4 file eliminati** (`05.3`, `07.3`, `07.4`, `09.4`).
+
+**Scheletri da riempire**: `02.5` · `06.2` · `06.3` · `08.5` · `08.6`. Di questi, `08.6` e in parte `06.2` sono bloccati dalla cartografia.
+
+---
+
+## Come Si Lavora con i Modelli
+
+La separazione dei ruoli è ciò che impedisce l'accumulo di debito:
+
+- **Direzione creativa e giudizio complesso** → una chat dedicata, che decide e non scrive lore
+- **Propagazione ed esecuzione meccanica** → sessioni separate, un file per sessione, con il documento delle decisioni e `00_CANONE` aggiornato allegati
+- **Verifica** → script, non modelli con il contesto saturo
+
+Nelle sessioni di propagazione il modello elenca prima cosa cambierebbe e aspetta conferma. Non decide, non estende, non "migliora": in caso di dubbio inserisce `<!-- NOTA: ... -->` e prosegue.
+
+I messaggi di commit generati automaticamente **descrivono male i file di archivio**: leggono il contenuto e lo scambiano per l'azione del commit. Vanno riscritti a mano o almeno riletti.
